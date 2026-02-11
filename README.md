@@ -6,7 +6,7 @@
 - 🎯 Goal: Become a Machine Learning Engineer  
 - 🧠 Interested in ML, data analytics, algorithms, and problem solving  
 - 🏋️ Discipline outside code: gym, consistency, self-improvement  
-- ⚡ Fun fact: I enjoy J-Rock and Visual Kei music
+- ⚡ Fun fact: I enjoy  music
 
 ---
 
