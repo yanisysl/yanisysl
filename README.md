@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I’m Yanis 👋
 
-<!--
-**yanisysl/yanisysl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 First-year Science student passionate about data and machine learning  
+- 💻 Currently learning Python, analytics, and ML with scikit-learn  
+- 🔭 Building practical projects to understand real-world data problems  
+- 🎯 Goal: Become a Machine Learning Engineer  
+- 🧠 Interested in ML, data analytics, algorithms, and problem solving  
+- 🏋️ Discipline outside code: gym, consistency, self-improvement  
+- ⚡ Fun fact: I enjoy J-Rock and Visual Kei music
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **Gym Attendance Predictor** – Logistic Regression with scikit-learn  
+- **Sudoku (C++)** – GUI-based logic game  made with Qt
+- **Hangman (C++)** – classic word game implementation made with Qt 
+
+---
+
+### 🌱 Currently Working On
+- Strengthening ML fundamentals  
+- Data preprocessing & feature engineering  
+ 
