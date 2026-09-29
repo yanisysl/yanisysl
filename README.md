@@ -1,6 +1,6 @@
 ## Hi there, I’m Yanis 👋
 
-- 🎓 First-year Science student passionate about data and machine learning  
+- 🎓 Second-year Science student passionate about data and machine learning  
 - 💻 Currently learning Python, analytics, and ML with scikit-learn  
 - 🔭 Building practical projects to understand real-world data problems  
 - 🎯 Goal: Become a Machine Learning Engineer  
