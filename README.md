@@ -1,12 +1,7 @@
 ## Hi there, I’m Yanis 👋
 
 - 🎓 Second-year Science student passionate about data and machine learning  
-- 💻 Currently learning Python, analytics, and ML with scikit-learn  
-- 🔭 Building practical projects to understand real-world data problems  
-- 🎯 Goal: Become a Machine Learning Engineer  
-- 🧠 Interested in ML, data analytics, algorithms, and problem solving  
-- 🏋️ Discipline outside code: gym, consistency, self-improvement  
-- ⚡ Fun fact: I enjoy  music
+
 
 ---
 
@@ -17,7 +12,6 @@
 
 ---
 
-### 🌱 Currently Working On
-- Strengthening ML fundamentals  
+
 
  
